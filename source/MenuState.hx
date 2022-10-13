@@ -30,7 +30,6 @@ class MenuState extends FlxState
 		// Adding the background image 320x240
 		_bg = new FlxSprite(0, 0, "BG.png");
 		add(_bg);
-]
 		// Adding a button with an anon call back function
 		_startButton = new FlxButton(137, 195, "", onStart);
 		// We add a couple of sprites to the button to act as normal and mouseover states
