@@ -28,6 +28,8 @@ if you wanna be the coder,you must get [`haxeflixel`](https://haxeflixel.com/) a
 ### Credits
 
 * MyFnf - Team leader
+* BushTrain460615 - helper
+* Memehoovy - helper
 
 ### Release
 
